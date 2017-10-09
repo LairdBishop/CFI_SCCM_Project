@@ -7,7 +7,6 @@ This repo contains documents and files related to an SCCM boot in factory projec
 
 ### [Global Factory Imaging for MDT 2013 user guide external_EN_1215.pdf - the "User Guide" ](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/Global%20Factory%20Imaging%20for%20SCCM%202012%20user%20guide%20external_EN_0117.pdf)
 ---
-***
 You may hear this document referred to in short as the "User Guide" or the "White Paper" as you interact with your IMS engineer or project manager.  
 
 **_Please invest the time to fully read and understand this document, which serves as the definitive guide for this type of project._**  The majority of media failures, project delays, factory exceptions and customer escapes we encounter can be traced to deviation from the user guide.
