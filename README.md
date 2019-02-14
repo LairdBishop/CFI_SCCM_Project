@@ -5,7 +5,7 @@ This repo contains documents and files related to an SCCM boot in factory projec
 
 ## Essential documents (Mandatory)
 
-### [Global Factory Imaging for MDT 2013 user guide external_EN_1215.pdf - the "User Guide" ](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/Global%20Factory%20Imaging%20for%20SCCM%202012%20user%20guide%20external_EN_0117.pdf)
+### [SCCM_Boot_in_the_Factory_USERGUIDE_092018.pdf](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/SCCM_Boot_in_the_Factory_USERGUIDE_092018.pdf)
 ---
 You may hear this document referred to in short as the "User Guide" or the "White Paper" as you interact with your IMS engineer or project manager.  
 
@@ -24,9 +24,9 @@ This document tells us everything we need to know to get your project and testin
 ### [ImportCustomDrivers.vbs](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/ImportCustomDrivers.vbs)
 ---
 Used to facilitate Dynamic Driver Injection in the DellEMC factory.
-See page 9 of the  ["User Guide"](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/Global%20Factory%20Imaging%20for%20SCCM%202012%20user%20guide%20external_EN_0117.pdf)
+See page 9 of the  ["User Guide"](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/SCCM_Boot_in_the_Factory_USERGUIDE_092018.pdf)
 
 ### [Check_AC_Power.vbs](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/Check_AC_Power.vbs)
 ---
 Used to alert in the event a laptop is running on battery.  Necessary when implementing BitLocker partition creation in an SCCM factory task sequence.
-See page 15 of the  ["User Guide"](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/Global%20Factory%20Imaging%20for%20SCCM%202012%20user%20guide%20external_EN_0117.pdf)
+See page 15 of the  ["User Guide"](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/SCCM_Boot_in_the_Factory_USERGUIDE_092018.pdf)
