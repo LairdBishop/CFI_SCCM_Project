@@ -13,7 +13,7 @@ You may hear this document referred to in short as the "User Guide" or the "Whit
 
 If you have any questions as you work toward implementation please reach out to your assigned IMS engineer who will be happy to assist. 
 
-### [SCCM_MDT_IMS_TechSpec_5.3.docm  - the "IMS TechSpec" ](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/SCCM_MDT_IMS_TechSpec_5.3.docm)
+### [sccm_mdt_ims_techspec_5_3.docm  - the "IMS TechSpec" ](https://github.com/LairdBishop/CFI_SCCM_Project/blob/master/sccm_mdt_ims_techspec_5_3.docm)
 ---
 **_DO FIRST! This document must be completed fully and accurately at the outset of any project and returned to your IMS engineer and project manager._**
 
